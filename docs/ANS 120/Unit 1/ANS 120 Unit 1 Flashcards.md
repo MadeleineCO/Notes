@@ -328,22 +328,309 @@ Primary types of digestive tracts::monogastric, ruminant, avian/modified monogas
 
 [[2022-08-31]]
 Small intestines::Transfers nutrients across small intestine wall into circulatory system; Make materials mixed w/ acid more neutral
+^1662556163875
 
 Proximal region::Closest region to the stomach; Mostly still chemical digestion (no strong acid; secretes bile); Some absorption
+^1662556163884
 
 Distal region::Second region farther away from stomach; Mostly nutrient absorption; Lots of blood supply to intestines (absorbed into circulatory nutrients)
+^1662556163890
 
 Large intestines::May include the cecum/appendix; Includes the large colon; Some nutrient absorption; Mostly water metabolism
+^1662556163895
 
 Cecum::If nonfunctional, called the appendix; Only functional in pig; Digestive material sits in the cecum for microbial digestion
+^1662556163902
 
 Water metabolism occurs in the::large intestines (we don't want to keep all the water we intake; generally retain water, but designed to maintain appropriate amount of water)
+^1662556163908
 
 Omnivores have longer --- than carnivores::intestines
+^1662556163914
 
 Ruminant mechanical digestion::Mastication in mouth
+^1662556163920
 
 Ruminant esophagus::Two way system; can swallow up or down for multiple mastication in mouth (transfers from mouth to stomach to mouth to stomach, etc.)
+^1662556163927
 
 Ruminant stomach::one true stomach with four chambers; Forestomach, Rumen/Reticulum, Omasum, Abomasum
+^1662556163932
 
+[[2022-09-07]]
+Carbohydrate (ans)::Energy substrates (monosaccharides "one subunit", disaccharides "two subunits", polysaccharides "many subunits" like glucose polymers)
+^1662556208402
+
+Monosaccharide ex:: glucose molecule (glucose is primary carb; most used)
+^1662556163942
+
+Polysaccharides (ans)::Generally take glucose and put them in chains 
+^1662556208412
+
+Starch is series of --- and used for--- in plants::glucose molecules, storage of energy
+^1662556163950
+
+Cellulose (ans)::Carbohydrate that is main component of the cell walls of most plants; used for physical structure of plants (like skeleton); Can only be digested by microbes in herbivores (NOT omnivores and carnivores); Pigs can digest cellulose better than most monogastrics bc of cecum
+^1662556208420
+
+Glycogen::storage form of energy for animals
+^1662556163957
+
+Monogastric uses ---::simple CHO's (glucose)
+^1662556163962
+
+Ruminants and non-ruminant herbivores use ---::simple CHO's (glucose) as well as volatile fatty acids
+^1662556163968
+
+VFAs::Primary source of herbivore energy (>80% in ruminants and >60% in non ruminant herbivores)
+^1662556163974
+
+Acetic acid, propionic acid, and butyric acid are ---::main fatty acids and used to make ATP in a different way than simple carbs
+^1662556163980
+
+[[2022-09-08]]
+Avian Prehension::mouth/beak (NO mastication in the mouth)
+^1662653894393
+
+Crop::Mild chemical digestion and moistens ingested material; Pouch located outside body; No strong acids/bases; Avian
+^1662653894400
+
+Proventriculus::The abomasum or gastric stomach; Chemical digestion in avians
+^1662653894407
+
+Gizzard::Mastication (mechanical digestion); Thick pouch w/ strong muscles to smash ingested material
+^1662653894414
+
+Birds eat --- to help pulverize food in the gizzard::grit (ex small rocks); also gives them minerals
+^1662653894419
+
+Avian small intestines::Proximal (chemical digestion) and distal (absorption)
+^1662653894426
+
+Ceca::Avians have 2 ceca whereas most animals have one cecum; NOT for microbial digestion; Place for mixing and short term storage of urine and feces
+^1662653894432
+
+Birds don't have a ---::bladder; The ceca are made up of smooth muscle that can spontaneously contract for defecation
+^1662653894438
+
+Cloaca::"Common opening" used for reproduction and waste elimination in avians
+^1662653894445
+
+Avian large intestine::water metabolism
+^1662653894451
+
+Carnivore Comparative Anatomy::Simple stomach, very short monogastric tract; Simple CHO's for energy; protein from diet; b-complex vitamins from diet
+^1662653894458
+
+Omnivore Comparative Anatomy::Simple stomach; short monogastric tract; Simple CHO's for energy; Protein from diet; B-complex vitamins from diet
+^1662653894464
+
+Ruminant Comparative Anatomy::Chambered stomach; Long ruminant tract; VFA's (>80%) for energy; Protein from microbes/diet; B-complex vitamins from microbes
+^1662653894471
+
+Non-Ruminant Herbivore Comparative Anatomy::Simple stomach; Long monogastric tract + cecum; Simple CHO/VFA's for energy; Protein from diet; B-complex vitamins from microbes
+^1662653894477
+
+Avian Comparative Anatomy::Simple (rearranged position) stomach; Short modified monogastric tract; Simple CHO's for energy; Protein from diet; B-complex vitamins from diet
+^1662653894484
+
+Non-Ruminant Herbivores are ---::true monogastric but w/ significant microbial fermentation; "One way system"
+^1662653929153
+
+Non-Ruminant Herbivore Tract::Mouth (mechanical digestion), Esophagus (transport), Stomach (chemical digestion), Small intestines (proximal = digestion/absorption and distal = absorption), Cecum (microbial digestion), Large intestines (colon, some microbial digestion, water metabolism)
+^1662653894491
+
+Non-Ruminant Herbivores have a longer --- than omnivores and carnivores and a smaller --- than herbivores::small intestine; stomach
+^1662653894498
+
+Non-Ruminant Herbivore examples::Rabbits, pandas, koalas, elephant
+^1662653894505
+
+Coprophagy::Eating feces; Common for non-ruminant herbivores bc they can get necessary microbes
+^1662653894511
+
+Horse vs Cattle::Digestive capacity (35 vs 80 gas), Organization (hindgut vs forestomach), Rate of passage (35-50 vs 70-90); Built for different environments (one not necessarily efficient over the other)
+^1662653894518
+
+Hindgut fermentation::Digestive process for non-ruminant herbivores w/ single chambered stomach; More microbial digestion
+^1662653894525
+
+Forestomach::Ruminants; Includes rumen, reticulum, and omasum (Abomasum is separate as the gastric stomach)
+^1662653894532
+
+[[2022-09-12]]
+Body composition of animals::60% water, 16% protein, 2-20% fat, 4% ash (minerals)
+^1663090792928
+
+Nutrient Classes::Substances that provide nutrients; Required = water, energy (simple/complex carbs and fats), protein (amino acids), vitamins (fat soluble/water soluble, minerals (macro/micro)
+^1663090792937
+
+Nutrients are everything we get through ---::digestion (not things like air); water, energy, protein, vitamins, minerals
+^1663090792943
+
+Nutrient requirements can change w/ ---::physical changes (weight/size, stage of production, level of production, work, age, pregnancy) or environmental changes (climate, physical activity, diseases/parasites)
+^1663090792949
+
+Water is used for ---::transport (components travel via blood/fluids), lubrication (aids against friction), and cooling (species dependent; ex: sweating)
+^1663090792955
+
+What happens if >10% of water is lost?::Heat stroke, hallucinations, swollen tongue, unsteady walk, high body temp, no sweat or urine (for people; camels can lose up to 25% water; somewhat species dependent)
+^1663090792963
+
+When creating and balancing a ration, it is assumed that ---::water is available! (Water is a critical requirement)
+^1663090792969
+
+Energy::Commonly the most limiting nutrient, First concern when balancing a ration (assuming water is available); From simple/complex carbs and fats
+^1663090792975
+
+Carbohydrates (ans)::Energy substrates; Monosaccharides (glucose is primary for ATP production in all monogastrics) and Disaccharides (ex: sucrose) and Polysaccharides (ex: starch, cellulose, glycogen)
+^1663090856984
+
+Sucrose is composed of ---::glucose and fructose, making it a disaccharide. Monogastrics can break down sucrose, convert fructose to glucose, and use glucose for ATP
+^1663090792982
+
+Starch::Complex carb that is the chief form of stored energy in plants
+^1663090792988
+
+Cellulose is the main component of --::cell walls in most plants; complex carb
+^1663090875793
+
+Glycogen (ans)::Complex carb that is stored in the liver and muscles in animals
+^1663090843024
+
+Chemical digestion can break down --- and ---, but not ---::starch; glycogen; cellulose
+^1663090792996
+
+Microbial digestion can break down ---, ---, and ---::starch; cellulose; glycogen
+^1663090793002
+
+Monogastrics use --- for energy::simple CHO's (glucose)
+^1663090793008
+
+Ruminants and non-ruminant herbivores use --- for energy::simple CHO's (glucose) and VFA's; VFA's play the *primary* role as an energy substrate (>80% for ruminants and >60% for NRHs (depending on feed))
+^1663090793013
+
+Fats::About 2.25x energy than that of carbs (more potential energy); Animal and plant sources
+^1663090793020
+
+Fat degree of saturation (level of double bonds)::Sat fats don't have double carbon bonds, but unsat fats have one or more
+^1663090793025
+
+Fats go through --- to be produced as ATP::beta-oxidation (stops when fatty acid is completely degraded and converted into Acetyl Coa)
+^1663090793031
+
+Fat uses include ---::heat, sleeping, exercise/work, and hibernation
+^1663090793037
+
+Triglyceride + 3 H2O can be broken down (with Hormone-Sensitive Lipase) into ---::3 fatty acids and glycerol; Glycerol --> glucose and fatty acids (through beta-oxidation) --> Acetyl-CoA; Mitochondria turns glucose and acetyl-coa (through citric acid cycle and electron transport chain) into ATP
+^1663090793042
+
+Where does energy go?Gross energy --> digestible energy (or fecal) --> metabolic energy (or urine/gasses) --> net energy (or heat) --> maintenance (Basic metabolic/physiological function) --> production (ex: lactation); Loses some energy at every step
+
+Amino acids (ans)::For muscle, tendons, ligaments, connective tissue; 20 amino acids and 9 essential amino acids (must be in diet bc non-essentials can be manufactured from essentials); A complete protein contains all 20 amino acids
+^1663090843031
+
+Ruminant (ans)::Can get protein in diet but can also digest microbes as source of protein (bacteria, yeast, fungi, protozoa)
+^1663090819327
+
+Monogastrics must have protein ---::in their diets
+^1663090793049
+
+Essential amino acids::Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine
+^1663090793055
+
+Macrominerals::Need in larger amounts (ex: calcium for bones, teeth, nerves and muscle function) (ex: sodium, potassium, chlorine for osmotic balance, nerve function, muscle function)
+^1663090793060
+
+Microminerals::Need in smaller amounts (ex: iodine (metabolic rate) and iron (hemoglobin for oxygen transport))
+^1663090793066
+
+Iron::Micromineral; Used for hemoglobin (oxygen transport); Deficiency affects half of human pop
+^1663090793073
+
+Iodine::Micromineral; T3/T4 - Metabolic rate; Iodized salt; Deficiency can cause goiter
+^1663090793078
+
+Vitamins::Fat soluble (A, D, E, K) and water soluble (C, B, B-complex)
+^1663090793085
+
+Water-soluble vitamins cannot be ---, so must be ---::stored; frequently added in diet and replaced consistently
+^1663090793091
+
+Fat soluble vitamin uses::A - cell growth; D - bone formation; E - red blood cells; K - clotting
+^1663090793097
+
+Fat soluble vitamins can be --- to ---::stored; decrease rate of metabolic breakdown
+^1663090793103
+
+Almost all water-soluble vitamins relate to --::control of metabolism and energy use by cells
+^1663090793108
+
+Examples of water soluble vitamins::Thiamin, Riboflavin, Niacin, B6, B12, Folic acid, Biotin, Choline
+^1663090793114
+
+Vitamin C::Antioxidant; Water-soluble vitamin; Prevents tissues from falling apart; Deficiency can cause scurvy (breaking down/rotting tissues)
+^1663090793120
+
+Roughages::Includes plant stems and leaves; High in fiber (cellulose + related components such as lignin, hemicellulose, wood) and low in energy; Used for structure in plants 
+^1663090793126
+
+The higher the fiber content, the lower the::nutrients; Inverse relationship
+^1663090793133
+
+Proteinaceous::Legumes; Higher in protein relative to other roughages; Crude Protein is generally greater than 15%; Alfalfa and clover
+^1663090793140
+
+Alfalfa::Proteinaceous; Symbiotic relationship w/ Rhizobium spp. that lives in root nodules; Can take N out of air and fix it to plants; Can be dangerous if too much protein and lower in fiber than most roughages (higher in nutrients)
+^1663090793146
+
+Carbonaceous::Grasses such as burmuda, fescue, orchard grass, timothy, and crop residue; Low in protein and other nutrients but high in fiber
+^1663090793152
+
+Importance of roughages::Critical for ruminants and non-ruminant herbivores as feed substrate for microbial digestion and maintaining GIT integrity; Horses need it to prevent colic and keep digestive track full and fully operational 
+^1663090793157
+
+[[2022-09-15]]
+Hay production and pellets/cubes are ways of storing ---::roughages; Decreases rate of microbial breakdown by decreasing moisture content (forage is 50-80% water whereas hay is 8-16%)
+^1663253517596
+
+Energy concentrates::plant sources (grains, seeds); Wheat, corn, barley, milo, oats; Processing increases the digestibility of grains by breaking seed coat and grinding it
+^1663253517603
+
+A kernel of wheat contains. . .::endosperm (carb that helps plant survive until large enough to have leaves, roots, etc.), bran (outside seed coat made of cellulose), and germ (for reproduction)
+^1663253517609
+
+Processing grains exposes the inside to ---::chemical or microbial digestion as well as increasing surface area to give more places for breakdown
+^1663253517615
+
+Protein concentrates::Animal sources (by-products; meat meal, bone meal, etc.) and plant sources (cottonseed, soybean meal, linseed, etc.); Greater than 35% crude protein
+^1663253517621
+
+Cottonseed contains ---, which can be dangerous for all but ruminants where microbes remove neurotoxin::gossypol (neurotoxin)
+^1663253517627
+
+Protein is needed for ---, so we add it to feed to help animals grow strong::growth and development (muscles, ligaments, etc.)
+^1663253517633
+
+Animal sources of protein concentrates (by-products) have --- CP::60->90%
+^1663253517639
+
+Plant sources of protein concentrates (oil seeds) have --- CP::30-45%
+^1663253517645
+
+Nutrient additives::Essential for life support; Increase availability of vitamins and minerals (ex: salt blook contains minerals and NaCl (to regulate mineral intake))
+^1663253517651
+
+Non-nutrient additives::Alters metabolism (ex: selective antibiotic we feed to ruminants to either kill off less efficient microbes or add more beneficial/efficient organisms)
+^1663253517656
+
+Ionophores::Non-nutrient feed additives that improve animal weight gain and feed efficiency for beef cattle (ex: monensin is a selective antibiotic targeting microbes that do not produce as much VFA's to allow more productive species to populate)
+^1663253517663
+
+Yeast cultures can help ---:a horse's cecum because they are a productive microbe species
+
+Processing feeds into pellets/cubes::Grind seed --> extrudes in pellets/cubes; Creates better consistency and increase digestibility; Easy to add vitamins and minerals; Much more common than proportional mixes
+^1663253517668
+
+Proportional feed mixes::Mixing forages/concentrates/additives proportionally; Problem is that nutritional value can fluctuate based on quality of ingredients
+^1663253517674
